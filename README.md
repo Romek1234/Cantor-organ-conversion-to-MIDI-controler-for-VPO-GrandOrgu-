@@ -1,5 +1,5 @@
 # Cantor-organ-conversion-to-MIDI-controler-for-VPO-GrandOrgu-
-Cantor analog organ conversion to MIDI-controler for Virtual Pipe Organ (GrandOrgue, Hauptwerk)
+Cantor analog organ conversion to MIDI-controler for Virtual Pipe Organ (GrandOrgue, Hauptwerk and only VPO)
 
 The Cantor analog organ had a serious breakdown some time ago and was converted into a MIDI console for controlling software like VPO (virtual pipe organ). Then, however, only the manual keyboards (manuals) and the pedal keyboard were connected through two interfaces constructed on the ATMEL89S52 chip connected to two separate MIDI outputs, one on the right and one left under the keyboards. It was a cost effective solution, but quite a hassle to connect a computer with GrandOrgue (aka Hauptwerk).
 
